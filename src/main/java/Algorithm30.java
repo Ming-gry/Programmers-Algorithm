@@ -17,6 +17,7 @@ public class Algorithm30 {
     public static void main(String[] args) {
         Algorithm30 algorithm30 = new Algorithm30();
         int[][] sizes = {{60,50},{30,70},{60,30},{80,40}};
+
         System.out.println(algorithm30.solution(sizes));
     }
 }

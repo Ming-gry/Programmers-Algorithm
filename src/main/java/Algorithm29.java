@@ -15,6 +15,7 @@ public class Algorithm29 {
 
     public static void main(String[] args) {
         Algorithm29 algorithm29 = new Algorithm29();
+
         System.out.println(algorithm29.solution(125));
     }
 }

@@ -21,6 +21,7 @@ public class Algorithm32 {
     public static void main(String[] args) {
         Algorithm32 algorithm32 = new Algorithm32();
         int[] numbers = {2,1,3,4,1};
+
         System.out.println(Arrays.toString(algorithm32.solution(numbers)));
     }
 }

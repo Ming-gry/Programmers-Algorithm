@@ -18,6 +18,7 @@ public class Algorithm31 {
     public static void main(String[] args) {
         Algorithm31 algorithm31 = new Algorithm31();
         int[] arr = {1, 1, 3, 3, 0, 1, 1};
+
         System.out.println(Arrays.toString(algorithm31.solution(arr)));
     }
 }

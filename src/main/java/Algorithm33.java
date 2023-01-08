@@ -36,6 +36,7 @@ public class Algorithm33 {
         Algorithm33 algorithm33 = new Algorithm33();
         int[] lottos = {1,2,3,4,5,6};
         int[] win_nums = {7,8,9,10,11,12};
+
         System.out.println(Arrays.toString(algorithm33.solution(lottos, win_nums)));
     }
 }
