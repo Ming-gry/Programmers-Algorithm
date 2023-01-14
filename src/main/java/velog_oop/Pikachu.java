@@ -1,4 +1,4 @@
-package blog_oop;
+package velog_oop;
 
 public class Pikachu extends Pichu{
 
